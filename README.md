@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Keller&theme=dark)
 
-![lol](https://www.twitter.com)
+![lol](https://twitter.com/ryannotbriann/status/560572597906444288)
