@@ -1,4 +1,4 @@
-![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20on&logo=Twitter&logoColor=%230f0&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FnickEMERALDZZZ)
+![Twitter URL](http://img.shields.io/twitter/follow/nickEMERALDZZZ?logo=twitter&style=for-the-badge)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Nicholas-Keller&theme=jolly&show_icons=true)
 
