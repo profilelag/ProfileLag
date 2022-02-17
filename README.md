@@ -9,6 +9,6 @@ I am a web developer and love making APIs, websites (backend), and Discord bots.
     * <img align="center" height=16px src="https://github.com/m-sterling/m-sterling/raw/master/assets/gmail.ico"> [`nkeller5627@gmail.com`](mailto:nkeller5627@gmail.com)
 
 ## Aliases:
-1. Nicholas Michael Keller (**Birth name**)
+1. Nicholas Keller (**Birth name**)
 2. ProfileLag (**Screen name**)
 3. EMERALDZZZ (**Old screen name**)
