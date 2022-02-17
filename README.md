@@ -1,4 +1,4 @@
-# Michael Keller
+# Nicholas Keller
 I am a web developer and love making APIs, websites (backend), and Discord bots. I am a student at Jefferson Forest High School.
 
 <img align="center" src="https://profilelag.github.io/ProfileLag/lol.svg"/>
@@ -10,6 +10,5 @@ I am a web developer and love making APIs, websites (backend), and Discord bots.
 
 ## Aliases:
 1. Nicholas Michael Keller (**Birth name**)
-2. Michael Keller (**Personal name**)
-3. ProfileLag (**Screen name**)
-4. EMERALDZZZ (**Old screen name**)
+2. ProfileLag (**Screen name**)
+3. EMERALDZZZ (**Old screen name**)
