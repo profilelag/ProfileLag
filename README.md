@@ -11,4 +11,3 @@ I am a web developer and love making APIs, websites (backend), and Discord bots.
 ## Aliases:
 1. Nicholas Keller (**Birth name**)
 2. ProfileLag (**Screen name**)
-3. EMERALDZZZ (**Old screen name**)
