@@ -3,6 +3,6 @@ I am a web developer and love making APIs, websites (backend), and Discord bots.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProfileLag"/>
 
-* Contact me *
+* Contact me
     * Email: nkeller5627@gmail.com
     * Discord: ProfileLag#6938
