@@ -4,7 +4,8 @@ I want to learn Go.
 Currently, I'm working with Typescript, GH oAuth, and Prisma ORM.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profilelag"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=profilelag"/>
 
 * Contact me
-    * Email: nkeller@profilelag.org
+    * Email: [nkeller@profilelag.org](mailto:nkeller@profilelag.org)
     * Discord: nkeller
