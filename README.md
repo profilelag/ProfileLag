@@ -1,10 +1,10 @@
 # Nicholas Keller
-I am a student web developer with an interest in Typescript and Javascript.
-I want to learn Go.
-Currently, I'm working with Typescript, GH oAuth, and Prisma ORM.
+I'm a CS student located in Virginia. Big interests in backend development. Been making a [Blackjack protocol](https://github.com/profilelag/RAW-Blackjack) in Typescript.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profilelag"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=profilelag"/>
+## Common Technologies
+- Typescript
+- Bun.sh
+- Prisma ORM (Moving to Drizzle)
 
 * Contact me
     * Email: [nkeller@profilelag.org](mailto:nkeller@profilelag.org)
